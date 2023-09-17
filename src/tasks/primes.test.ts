@@ -1,5 +1,5 @@
 /* eslint-disable no-magic-numbers */
-// ❌ import { primeFactors } from "./bad-primes";
+//❌ import { primeFactors } from "./bad-primes";
 // ✔️ Refactored
 import { getPrimeFactors } from './primes_ok';
 
